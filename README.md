@@ -2,7 +2,11 @@
 
 As we can see a lot of companies today decide to go with a multi-cloud strategy. Here is the overview where all major services between AWS, Azure, GCP, and OCI are mapped with links pointing to product home pages. 
 
-Updated on October 2023.
+## Support My Work
+
+If you find this repository helpful, consider supporting me on Patreon:
+
+[![Patreon](patreon.png)](https://www.patreon.com/techworld_with_milan)
 
 ![Cloud Product Mapping](CloudProductMappingBrief.png)
 
@@ -10,9 +14,9 @@ Download the full mapping in the [PDF version](Cloud%20Product%20Mapping.pdf) or
 
 ## Bonus 1: Monitoring Cheat Sheet
 
-![Monitoring Cheat Sheet](monitoring-cheating-sheet.png)
+![Monitoring Cheat Sheet](monitoring-cheat-sheet.png)
 
-Download the cheat sheet in the [PDF version](Monitoring%20cheating%20sheet.pdf) or [PNG version](monitoring-cheating-sheet.png).
+Download the cheat sheet in the [PDF version](monitoring-cheat-sheat-dark.pdf), white background [PDF version](monitoring-cheat-sheat-light.pdf) or [PNG dark version](monitoring-cheat-sheet.png) or [PNG white version](monitoring-cheat-sheat-white.png).
 
 ## Bonus 2: Cloud Databases
 
